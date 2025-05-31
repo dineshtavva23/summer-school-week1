@@ -1,6 +1,9 @@
 # TL Summer School
 
-## Day-1: Learnt Git Commands
+## Day 1: Learned Git & GitHub Pages
 
+- Revised some essential **Git commands**.
+- Practiced basic **Linux terminal commands**.
+- Successfully **hosted a webpage using GitHub Pages**.
 
-I started by learning and practicing essential Git commands used for version control.
+The page is live at: [https://dineshtavva23.github.io/summer-school-week1/](https://dineshtavva23.github.io/summer-school-week1/)
