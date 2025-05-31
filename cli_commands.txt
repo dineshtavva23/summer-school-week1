@@ -1,0 +1,17 @@
+pwd       - ouputs Present working directory , it will be helpful to navigate through directories and also used in automating tasks 
+            using shell scripting
+ls -l     - ouputs detailed information about files and directories which contains permissions, number of hard links, owner name, 
+            group name, size of the file along with last modified date and time
+mkdir test_folder - creates an empty directory test_folder
+touch hello.txt - created an empty txt file hello.txt in present working directory
+rm hello.txt - removed hello.txt file which was created in using previous command
+chmod +x filename.sh - If filename.sh already exists then it changes permissions of filename.sh file to make it executable else shows
+                       error that file does not exists
+git init - Initializes a git repository by creating a .git folder and starts tracking changes made in the directory
+git status - It shows the branch name you are currently on, wheather there are any untracked files, files which are staged for next commit
+             and also some instructions
+git add . - It will stage all changes in subdirectories and files.
+git commit -m "Initial commit" - It creates commit of the files which are currently staged along with a message describing the commit
+git push origin main - It sends local main branch's commits onto a remote repository origin
+git checkout -b new_feautures - creates a new branch names new_feautures and switches to it
+code . - As i am using wsl it opened the current directory in VS code
